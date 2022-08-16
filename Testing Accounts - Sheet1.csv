@@ -1,0 +1,6 @@
+Scenarios:,Username:,Password:,Outcome:
+1,jagnoor.singh@userful.com,Eagles121,Pass
+2,toanbutmuc@gmail.com,Ais12345,Pass
+3,jagnoor.singh@userful.com,Ais12345,Fail
+4,toanbutmuc@gmail.com,Eagles121,Fail
+5,jagnoor.singh@userful.com,,Fail
